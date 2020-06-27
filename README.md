@@ -87,8 +87,10 @@ In morse code : The letters are separated by white-spaces and the words are sepa
 
 ## Authors
 
+* **Ayush Kapasi**
+
 * **Hrishikesh Mulkutkar**
 
 * **Adithya Neelakantan**
 
-* **Ayush Kapasi**
+
